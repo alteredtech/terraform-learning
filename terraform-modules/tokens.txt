@@ -1,0 +1,2 @@
+influxdb = kTXu-wOXTSTgbedz1_Ioe-KhXg4uun2gXuirt73rjbh8y-tTuiKsp0sL6Qwp3jqB3kG3AwXdULqWTwateoZ3tw==
+owm = 80728a03526913a6cc48cfd1caa68f2a

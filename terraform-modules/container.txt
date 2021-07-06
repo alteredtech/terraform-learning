@@ -1,0 +1,3 @@
+grafana-prod-1lhl: 172.17.0.4:3000
+influxdb-prod-73a4: 172.17.0.3:8086
+nodered-prod-sg7p: 172.17.0.2:1880
